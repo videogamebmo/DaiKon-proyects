@@ -1,0 +1,28 @@
+p {
+    color: rgb(35, 210, 53);
+    font-size: 14px;
+    font: gothic;
+}
+body {
+    background-color: #f0f0f0;
+}
+.destacado {
+    color:rgb(54, 208, 15);
+}
+#Titulo {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+section {
+    background-color:blue;
+    padding: 15px;
+    border: 4px solid rgb(112, 184, 255);
+    margin: 10px;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none; color:cornflowerblue;
+}
